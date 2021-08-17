@@ -1,1 +1,6 @@
 chapter 3
+
+git init = WORKING DIRECTORY
+git add = STAGING AREA
+git commit = LOCAL REPOSITORY
+git checkout 
