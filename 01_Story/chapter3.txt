@@ -4,3 +4,5 @@ git init = WORKING DIRECTORY
 git add = STAGING AREA
 git commit = LOCAL REPOSITORY
 git checkout file.js = mengembalikan chapter.txt ke kondisi repo sebelumnya;
+
+by GUITHEREZ MAHARDIKA SINAGA
